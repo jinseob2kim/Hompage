@@ -2,13 +2,14 @@
 title: 괴델의 불완전성 정리
 author: Jinseob Kim
 date: '2016-11-02'
-slug: 괴델의-불완전성-정리
 categories:
   - Math
 tags:
   - Godel
   - incompleteness
   - Math
+  - set theory
+slug: 괴델의-불완전성-정리
 ---
 
 
