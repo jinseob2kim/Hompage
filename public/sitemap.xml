@@ -50,6 +50,15 @@
     
     <url>
     
+      <loc>/post/%EA%B4%B4%EB%8D%B8%EC%9D%98-%EB%B6%88%EC%99%84%EC%A0%84%EC%84%B1-%EC%A0%95%EB%A6%AC/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -199,6 +208,16 @@
     
     <url>
     
+      <loc>/tags/godel/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/hugo/</loc>
       <lastmod>2017-09-03T00:00:00+09:00</lastmod>
       <priority>0</priority>
@@ -209,8 +228,38 @@
     
     <url>
     
+      <loc>/tags/incompleteness/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/math/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/math/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
