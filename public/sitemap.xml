@@ -159,6 +159,14 @@
     
     <url>
     
+      <loc>/post/writing-markdown-latex/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -248,7 +256,7 @@
     
     <url>
     
-      <loc>/tags/math/</loc>
+      <loc>/categories/math/</loc>
       <lastmod>2016-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -258,7 +266,7 @@
     
     <url>
     
-      <loc>/categories/math/</loc>
+      <loc>/tags/math/</loc>
       <lastmod>2016-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
