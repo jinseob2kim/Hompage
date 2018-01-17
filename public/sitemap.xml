@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%84%9C%EB%B2%84%EC%99%80-%EA%B9%83%ED%97%88%EB%B8%8C-github-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/</loc>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -168,6 +177,16 @@
     
     <url>
     
+      <loc>/tags/blogdown/</loc>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -189,6 +208,16 @@
     
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/github/</loc>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -237,8 +266,8 @@
     
     <url>
     
-      <loc>/categories/math/</loc>
-      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <loc>/tags/linux/</loc>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -248,6 +277,16 @@
     <url>
     
       <loc>/tags/math/</loc>
+      <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/math/</loc>
       <lastmod>2016-11-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,7 +327,7 @@
     <url>
     
       <loc>/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -309,6 +348,16 @@
     
       <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/server/</loc>
+      <lastmod>2018-02-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
